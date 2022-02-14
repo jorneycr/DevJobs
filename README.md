@@ -1,8 +1,8 @@
 # DevJobs 
 ### The project is made with MongoDB, Mongoose, Handlebars, MVC, Node, Express, Axios, Webpack, Multer, Nodemailer, and etc.
 
-## `npm run start`
+## https://devjobscr.herokuapp.com/
 
-### Home
+### User `jorney95@live.com`
 
-## `http://localhost:5000/`
+### Password `12345`
